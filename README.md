@@ -27,7 +27,7 @@ Ola, me chama Iago Morais. 👨🏻‍💻 cursando 3° semestre - Tec. Analise 
 Este projeto tem o objetivo de ter uma oportunidade do 1° Trabalho.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![](https://github.com/IagoMorais/IagoMorais/blob/main/iago.morais.jpg?raw=true#vitrinedev)
 
 ## node Js fundamentos 
 
