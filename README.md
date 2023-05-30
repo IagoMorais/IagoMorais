@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# cursoNodeJs
-Fundamentos de NodeJs, HTML e CSS.
+# Fundamentos de NodeJs, HTML e CSS.
+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
