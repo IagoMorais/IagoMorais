@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# cursoNodeJs
+Fundamentos de NodeJs, HTML e CSS.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **NodeJs**
+| :label: Tecnologias | NodeJs, HTML, CSS.
+| :rocket: URL         | (https://www.linkedin.com/in/iago1995/)
+
+Ola, me chama Iago Morais. 👨🏻‍💻 cursando 3° semestre - Tec. Analise e Desenvolvimento de Sistemas 👨🏻‍🔬 Experimentando tecnologias. - Entusiasta de Open Source.
+Este projeto tem o objetivo de ter uma oportunidade do 1° Trabalho.
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](#vitrinedev)
+
+## node Js fundamentos 
+
