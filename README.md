@@ -19,7 +19,7 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=53cfad&vCenter=true&width=490&lines=REDES+SOCIAIS" alt="Typing SVG" /></a>
 
 <a href="https://t.me/imsolucao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://wa.me/Z3AJBZMCM34NA1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://wa.me/message/Z3AJBZMCM34NA1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 <a href="https://www.linkedin.com/in/iago1995/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=3eb595&animation=twinkling&fontAlignY=55"/>
