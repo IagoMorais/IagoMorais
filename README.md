@@ -22,4 +22,7 @@
 <a href="https://wa.me/message/Z3AJBZMCM34NA1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 <a href="https://www.linkedin.com/in/iago1995/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=footer&text=O+que+eu+não+sei+%2C+me+de+alguns+dias&fontSize=30&fontColor=3eb595&animation=twinkling&fontAlignY=55"/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=3eb595&animation=twinkling&fontAlignY=55"/>
