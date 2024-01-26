@@ -27,4 +27,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=3eb595&animation=twinkling&fontAlignY=55"/>
 
-<p><a href="https://cursos.alura.com.br/certificate/e528e3c3-6fd0-479b-a169-319e49f106f5?lang=pt_BR"> Certificado Aqui</a></p>
+<p><a href="https://cursos.alura.com.br/certificate/e528e3c3-6fd0-479b-a169-319e49f106f5?lang=pt_BR">ChatGPT e JavaScript: construa o jogo Pon</a></p>
