@@ -58,11 +58,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 ## 📬 Contato
 
 **Agente:** Conecta Fácil
-
-* **WhatsApp:** **[+55 19 97122-2036](https://wa.me/5519971222036)**
 * **E-mail para Parcerias e Suporte:** **conecta.facil.adm@gmail.com**
 * **GitHub:** https://github.com/IagoMorais/IagoMorais
-* **site:** https://conectafcil.net
 
 ---
 
